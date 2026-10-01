@@ -23,10 +23,5 @@
 ---
 [![](https://komarev.com/ghpvc/?username=sfladzzz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="github contribution grid snake animation" src="https://githubusercontent.com">
-</picture>
     
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
